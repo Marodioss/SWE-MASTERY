@@ -1,6 +1,6 @@
 # ⚡ SWE Mastery Hub (From Rusty to God-Tier Developer)
 
-An interactive, premium, and self-documenting technical interview preparation dashboard custom-tailored for **Marouane Kreker** (Software Engineer & Autonomous Systems Architect). 
+An interactive, premium, and self-documenting technical interview preparation dashboard custom-tailored for (Software Engineer & Autonomous Systems Architect). 
 
 Designed to rapidly bridge a 3-year skill gap and align skills to a **God-Tier Principal Architect** standard across Next.js 15+, advanced JS runtimes, database indexing, custom testing implementations, and AI/RAG system design.
 
